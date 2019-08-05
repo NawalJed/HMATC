@@ -1,1 +1,1 @@
-
+The dataset is a collections of hierarchical multi-label Arabic texts, related to the Islamic field. It consists of 26,470 text instances distributed over 578 hierarchical multi-labels. The preprocessed version of the dataset is available in ARFF file format suitable for MULAN multi-label classification tool, along with XML file format that define the hierarchical structure of the labels.
