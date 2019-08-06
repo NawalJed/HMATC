@@ -1,7 +1,7 @@
 
 /*
  * This java program demonstrates the pre-processing phase of the HMATC model.
- * It required to set the MULAN and (WEKA 3.7.12) jar files in the class path of this package. 
+ * It required to set the MULAN and (WEKA 3.7.12) jar files in the class path. 
  * It required this version of WEKA because it contains the (setStopwordsHandler) method in the 
  * (StringToWordVector) class.
  */
@@ -47,9 +47,9 @@ public class PreprocessingPhase
 			Instances rawData = loader.getDataSet();
 
 
-			/** ------ Pre-processing tasks involves (Tokenization, Stemming, and Stop-words removal) ------*/
+			/** ------ Pre-processing task involves (Tokenization, Stemming, and Stop-word removal) ------*/
 
-			/** Create an object from MyStopWordsHandler class to deal with the stop-words list and removing them*/
+			/** Create an object from MyStopWordsHandler class to deal with the stop-word list and removing them*/
 			MyStopWordsHandler stopWord = new MyStopWordsHandler("StopWordList.txt");
 
 			/** Create an object from WordTokenizer class to make the Tokenization task*/
