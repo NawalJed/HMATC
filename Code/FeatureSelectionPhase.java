@@ -2,7 +2,7 @@
 
 /*
  * This java program demonstrates the feature selection phase of the HMATC model.
- * It required to set the MULAN and WEKA jar files in the class path of this package. 
+ * It required to set the MULAN and WEKA jar files in the class path. 
  */
 
 package HMATC_Model;
