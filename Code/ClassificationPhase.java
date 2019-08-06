@@ -1,7 +1,7 @@
 
 /*
  * This java program demonstrates the classification and evaluation phases of the HMATC model.
- * It required to set the MULAN and WEKA jar files in the class path of this package. 
+ * It required to set the MULAN and WEKA jar files in the class path. 
  */
 
 package HMATC_Model;
