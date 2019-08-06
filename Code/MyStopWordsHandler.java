@@ -1,3 +1,10 @@
+/*
+ * This java program demonstrates the MyStopWordsHandler class that used in the 
+ * Preprocessing phase of the HMATC model.
+ *
+ */
+
+
 package HMATC_Model;
 
 import weka.core.stopwords.StopwordsHandler;
