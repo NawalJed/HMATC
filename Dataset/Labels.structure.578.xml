@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<labels xmlns="http://mulan.sourceforge.net/labels">
+<label name="التصنيف.العام">
+<label name="العقائد">
+ <label name="الإلهيات.وما.يتعلق.بها"/>
+ <label name="النبوات.وما.يتعلق.بها"/>
+ <label name="السمعيات.وما.يتعلق.بها"/>
+ <label name="الفرق.والملل.والنحل.وما.يتعلق.بها"/>
+<label name="مسائل.في.العقيدة">
+ <label name="التوسل"/>
+ <label name="الصلاة.في.المساجد.التي.بها.أضرحة.وقبور"/>
+ <label name="التسويد.في.الأذان.وغيره"/>
+ <label name="الاستغاثة.بغير.الله"/>
+ </label>
+ <label name="إشهار.الإسلام"/>
+ </label>
+ <label name="أصول.الفقه.وما.يتعلق.به"/>
+<label name="الفقه">
+<label name="العبادات">
+<label name="الطهارة">
+ <label name="النجاسات"/>
+ <label name="الأشياء.الطاهرة"/>
+ <label name="الوضوء"/>
+ <label name="المسح.على.الخفين"/>
+ <label name="الغسل"/>
+ <label name="الحيض"/>
+ <label name="التيمم"/>
+ <label name="النفاس"/>
+ <label name="طهارة.أصحاب.الأعذار"/>
+ <label name="اللباس.والزينة"/>
+ <label name="ما.يجوز.وما.يحرم.على.المحدث"/>
+ <label name="ما.يعفى.عنه.في.الطهارة"/>
+ </label>
+<label name="الصلاة">
+ <label name="حكم.الصلاة"/>
+ <label name="فضل.الصلاة"/>
+ <label name="شروط.وجوب.الصلاة"/>
+<label name="شروط.صحة.الصلاة">
+ <label name="العلم.بدخول.الوقت"/>
+ <label name="الطهارة.1"/>
+ <label name="استقبال.القبلة"/>
+ <label name="ستر.العورة"/>
+ </label>
+ <label name="صفة.الصلاة"/>
+ <label name="أركان.الصلاة"/>
+ <label name="سنن.الصلاة"/>
+ <label name="هيئات.الصلاة"/>
+ <label name="مكروهات.الصلاة"/>
+ <label name="السهو"/>
+ <label name="الأذان"/>
+<label name="التطوع">
+ <label name="السنن.الرواتب"/>
+<label name="السنن.غير.الرواتب">
+ <label name="قيام.الليل"/>
+ <label name="التراويح"/>
+ <label name="صلاة.التسابيح"/>
+ </label>
+ </label>
+<label name="أحكام.المساجد">
+ <label name="ما.يجوز.في.المساجد"/>
+ <label name="ما.لا.يجوز.في.المساجد"/>
+ <label name="الأضرحة"/>
+ <label name="أهمية.المساجد"/>
+ <label name="بناء.المساجد"/>
+ <label name="الصلاة.في.الأرض.المغصوبة"/>
+ </label>
+ <label name="مواطن.الصلاة"/>
+ <label name="صلاة.الجماعة"/>
+ <label name="صلاة.المسافر"/>
+ <label name="صلاة.الجمعة"/>
+ <label name="أحكام.تتعلق.بالعيدين.ويوم.عرفة"/>
+ <label name="حكم.ترك.الصلاة"/>
+ <label name="قضاء.الفوائت"/>
+ <label name="القنوت.في.الصلاة"/>
+ <label name="مسائل.متعلقة.بالصلاة"/>
+ </label>
+<label name="الجنائز">
+ <label name="غسل.الميت"/>
+ <label name="الكفن"/>
+ <label name="الصلاة.على.الجنازة"/>
+ <label name="حمل.الجنازة.واتباعها"/>
+ <label name="الدفن"/>
+ <label name="العزاء"/>
+ <label name="تشريح.جثة.الميت"/>
+<label name="أحكام.القبور">
+ <label name="زيارة.القبور"/>
+ <label name="قراءة.القرآن.والأوراد.على.الجنائز.والقبور"/>
+ <label name="نبش.القبور.ونقل.الموتى"/>
+ <label name="صفة.القبور"/>
+ <label name="تعدد.الموتى.في.قبر.واحد"/>
+ <label name="الدفن.في.الفساقي.وعمل.أدوار.داخل.القبر"/>
+ <label name="كتابة.اسم.المتوفى.على.القبر"/>
+ <label name="الوقوف.عند.القبر.بعد.الدفن.والدعاء.للميت.وتلقينه"/>
+ <label name="حكم.العظامة"/>
+ </label>
+ <label name="أحكام.تتعلق.بالجنائز"/>
+ </label>
+<label name="الزكاة">
+ <label name="تعريف.الزكاة"/>
+ <label name="فضل.الزكاة"/>
+ <label name="حكم.الزكاة"/>
+ <label name="شروط.وجوب.الزكاة"/>
+ <label name="جمع.الزكاة"/>
+ <label name="زكاة.الفطر"/>
+ <label name="صدقة.التطوع"/>
+<label name="ما.تجب.فيه.الزكاة">
+ <label name="زكاة.النقدين.والأموال.السائلة"/>
+ <label name="زكاة.الزروع.والثمار"/>
+ <label name="زكاة.عروض.التجارة"/>
+ <label name="زكاة.الأسهم.والسندات.التجارية.والصناعية"/>
+ <label name="زكاة.شهادات.الاستثمار"/>
+ <label name="زكاة.الأصول.الثابتة"/>
+ <label name="الزكاة.على.ودائع.البنوك"/>
+ <label name="زكاة.دفاتر.التوفير"/>
+ </label>
+<label name="مسائل.متعلقة.بالزكاة">
+ <label name="تقسيط.الزكاة"/>
+ <label name="إسقاط.الدين.من.الزكاة"/>
+ <label name="زكاة.الديون"/>
+ <label name="نقل.الزكاة"/>
+ <label name="قضاء.الزكاة"/>
+ <label name="اجتماع.الدين.والزكاة"/>
+ <label name="زكاة.الحلي"/>
+ <label name="إخراج.قيمة.الزكاة"/>
+ <label name="الزكاة.للأقارب"/>
+ <label name="تأخير.الزكاة"/>
+ <label name="الزكاة.في.مال.القاصر.والمحجور.عليه"/>
+ <label name="إخراج.الزكاة.قبل.الحول"/>
+ </label>
+ <label name="مصارف.الزكاة"/>
+ <label name="خصم.الضرائب.من.الزكاة"/>
+ </label>
+<label name="الصيام">
+ <label name="حكم.الصيام"/>
+ <label name="ما.يثبت.به.الشهر"/>
+<label name="أركان.الصوم">
+<label name="الإمساك.عن.المفطرات">
+ <label name="ما.لا.يعد.من.المفطرات"/>
+ </label>
+ </label>
+ <label name="آداب.الصوم.وما.يستحب.فيه"/>
+ <label name="القضاء"/>
+ <label name="كفارة.وفدية.الصيام"/>
+ <label name="صوم.التطوع"/>
+ <label name="حكم.ترك.الصيام"/>
+ <label name="النسيان.والشك.والخطأ.في.الصيام"/>
+ <label name="مسائل.متعلقة.بالصوم"/>
+ </label>
+<label name="الحج.والعمرة">
+ <label name="فضل.الحج"/>
+ <label name="شروط.صحة.الحج"/>
+ <label name="شروط.وجوب.الحج"/>
+ <label name="العمرة"/>
+ <label name="فضل.العمرة"/>
+ <label name="حكم.العمرة"/>
+<label name="الإحرام">
+<label name="وجوه.الإحرام.وما.يتعلق.بها">
+ <label name="الإفراد"/>
+ <label name="التمتع"/>
+ <label name="القران"/>
+ <label name="مسائل.متعلقة.بالإحرام"/>
+ </label>
+ <label name="محظورات.الإحرام"/>
+ </label>
+ <label name="فضائل.مكة.والمدينة..وأحكامهما"/>
+<label name="أعمال.الحج.والعمرة">
+ <label name="الطواف.وما.يتعلق.به"/>
+ <label name="السعي"/>
+ <label name="يوم.التروية"/>
+ <label name="الوقوف.بعرفة"/>
+ <label name="المزدلفة"/>
+ <label name="الرمي"/>
+ <label name="الحلق.والتقصير"/>
+ <label name="المبيت.بمنى"/>
+ <label name="التحلل.من.الإحرام"/>
+ </label>
+ <label name="الهدي">
+ <label name="ذبح.الهدي.والنية.فيه"/>
+ </label>
+ <label name="أحكام.النساء.في.الحج.والعمرة"/>
+ <label name="الإنابة.في.الحج.وشروطها"/>
+ <label name="حكم.الحج"/>
+ <label name="واجبات.الحج"/>
+ <label name="مسائل.متعلقة.بالحج.والعمرة"/>
+ </label>
+<label name="الذكر.والدعاء">
+ <label name="أحكام.قراءة.القرآن.وكتابته"/>
+ <label name="ختام.الصلاة"/>
+ <label name="الذكر.والإنشاد"/>
+ <label name="الصلاة.على.النبي.صلى.الله.عليه.وسلم"/>
+ </label>
+ </label>
+<label name="المعاملات">
+<label name="البيع">
+ <label name="تعريف.البيع"/>
+ <label name="حكم.البيع.وقواعد.المعاملات"/>
+ <label name="أركان.البيع"/>
+<label name="الربا">
+ <label name="حكم.الربا"/>
+ <label name="أنواع.الربا"/>
+ <label name="ربا.النسيئة"/>
+ <label name="ربا.الفضل"/>
+ <label name="الأجناس.الربوية"/>
+ <label name="معاملات.لا.تعد.ربا"/>
+ </label>
+ <label name="البيوع.المنهي.عنها"/>
+ <label name="العقود.الفاسدة"/>
+ <label name="البيوع.المنهي.عنها.غير.الفاسدة"/>
+<label name="ضمان.المبيع.وقبضه">
+ <label name="القبض"/>
+ <label name="المرابحة"/>
+ </label>
+ <label name="ما.يدخل.في.البيع.وما.لا.يدخل"/>
+ <label name="السلم">
+ <label name="حكمه"/>
+ <label name="شروط.السلم"/>
+ <label name="تعريف.السلم"/>
+ </label>
+ <label name="البيع.بالتقسيط"/>
+ <label name="الرجوع.عن.البيع"/>
+ <label name="زيادة.الثمن.مقابل.الأجل"/>
+ <label name="فساد.شرط.في.العقد"/>
+ </label>
+ <label name="حكم.القرض"/>
+<label name="الدين">
+ <label name="الأجل"/>
+ <label name="تصرف.المدين"/>
+ <label name="أداء.الدين"/>
+ <label name="المطل"/>
+ <label name="الزيادة.على.الدين.والجزاف.فيه"/>
+ <label name="الديون.بين.الزوجين"/>
+ </label>
+ <label name="الرهن"/>
+ <label name="الحجر"/>
+ <label name="الصلح"/>
+ <label name="الضمان"/>
+ <label name="الشركة"/>
+ <label name="الوكالة"/>
+ <label name="الإقرار"/>
+ <label name="الغصب"/>
+ <label name="الشفعة"/>
+ <label name="الإجارة"/>
+ <label name="الوقف"/>
+ <label name="الهبة"/>
+ <label name="العمرى.والرقبى"/>
+ <label name="اللقطة"/>
+ <label name="الوديعة"/>
+<label name="الفرائض.والوصايا">
+<label name="الوصايا">
+ <label name="حكم.الوصية.وما.يجب.فيها"/>
+ <label name="أركان.الوصية.وما.يتعلق.بها"/>
+ <label name="الوصية.لوارث"/>
+ <label name="الإيصاء.وما.يتعلق.به"/>
+ </label>
+<label name="الفرائض">
+<label name="الحقوق.المتعلقة.بالتركة">
+ <label name="تجهيز.وتكفين.الميت"/>
+ <label name="قضاء.الديون"/>
+ <label name="إنفاذ.الوصايا"/>
+ <label name="حرمان.الورثة.أو.بعضهم"/>
+ <label name="ما.يدخل.في.التركة.وما.لا.يدخل"/>
+ </label>
+ <label name="شروط.الإرث"/>
+ <label name="أسباب.الإرث"/>
+<label name="موانع.الإرث">
+ <label name="اختلاف.الدين"/>
+ <label name="القتل"/>
+ </label>
+<label name="أحوال.أصحاب.الفروض">
+ <label name="أحوال.الإخوة.لأم"/>
+ <label name="أحوال.الزوج"/>
+ <label name="أحوال.الزوجة"/>
+ <label name="أحوال.بنات.الصلب"/>
+ <label name="أحوال.بنات.الابن"/>
+ <label name="أحوال.الأخوات.الشقيقات"/>
+ <label name="أحوال.الأخوات.لأب"/>
+ <label name="أحوال.الأم"/>
+ <label name="أحوال.الجدات"/>
+ </label>
+<label name="العصبات">
+ <label name="ميراث.العصبات">
+ <label name="أحوال.الأب"/>
+ <label name="أحوال.الجد.الصحيح"/>
+ <label name="الأبناء"/>
+ <label name="أبناء.الابن"/>
+ <label name="الإخوة.الأشقاء"/>
+ <label name="الإخوة.لأب"/>
+ <label name="أبناء.الإخوة.الأشقاء"/>
+ <label name="أبناء.الإخوة.لأب"/>
+ <label name="الأعمام.الأشقاء"/>
+ <label name="الأعمام.لأب"/>
+ <label name="أبناء.الأعمام.الأشقاء"/>
+ <label name="أبناء.الأعمام.لأب"/>
+ </label>
+ </label>
+ <label name="الحجب"/>
+ <label name="العول"/>
+ <label name="التصحيح"/>
+ <label name="التخارج"/>
+ <label name="الرد.1"/>
+<label name="مسائل.مسماة">
+ <label name="المسألة.الغراوية"/>
+ </label>
+ <label name="ميراث.الحمل"/>
+ <label name="ميراث.المفقود"/>
+ <label name="المرتد"/>
+ <label name="الغرقى.والهدمى.والحرقى.وموتى.الحوادث"/>
+<label name="ميراث.ذوي.الأرحام">
+ <label name="الصنف.الأول"/>
+ <label name="الصنف.الثاني"/>
+ <label name="الصنف.الثالث"/>
+<label name="الصنف.الرابع">
+ <label name="الطائفة.الأولى"/>
+ <label name="الطائفة.الثانية"/>
+ <label name="الطائفة.الثالثة"/>
+ <label name="الطائفة.الرابعة"/>
+ </label>
+ </label>
+ <label name="الوصية.الواجبة"/>
+ <label name="من.لا.وارث.له"/>
+ </label>
+</label>
+<label name="الجهاد">
+ <label name="تعريف.الجهاد"/>
+ <label name="حكم.الجهاد.وشروطه"/>
+ <label name="الصلح.والأمان.وأحكام.أهل.الذمة"/>
+ </label>
+<label name="الصيد.والذبائح">
+ <label name="الذبح"/>
+ <label name="الأطعمة"/>
+ <label name="أحكام.الحيوان"/>
+ </label>
+ <label name="الأضحية"/>
+ <label name="العقيقة"/>
+ <label name="الأيمان">
+ <label name="حكم.اليمين"/>
+ <label name="ألفاظ.اليمين"/>
+ <label name="الحنث.في.اليمين"/>
+ <label name="كفارة.اليمين"/>
+ <label name="مسائل.تتعلق.بالأيمان"/>
+ </label>
+ <label name="النذور"/>
+ <label name="التصرف.حال.الحياة"/>
+ <label name="المضاربة"/>
+ <label name="أخذ.أجر.على.قراءة.القرآن"/>
+ <label name="الرشوة"/>
+ <label name="القواعد.العامة.للعقود.والمعاملات"/>
+ <label name="اللقيط"/>
+ <label name="الجعالة"/>
+ </label>
+<label name="أحكام.الأسرة">
+<label name="النكاح">
+ <label name="حكم.النكاح"/>
+<label name="الخطبة">
+ <label name="أحكام.متعلقة.بالشبكة"/>
+ <label name="الوساطة.بين.راغبي.الزواج"/>
+ <label name="أحكام.متعلقة.بالخطبة"/>
+ </label>
+ <label name="الكفاءة.في.النكاح"/>
+ <label name="شروط.النكاح"/>
+ <label name="المحرمات.من.النساء"/>
+ <label name="الخيار.في.فسخ.النكاح"/>
+ <label name="الصداق"/>
+ <label name="آداب.النكاح"/>
+ <label name="آداب.العشرة.بين.الزوجين"/>
+ <label name="القسم.بين.الزوجات"/>
+ <label name="الشقاق.بين.الزوجين"/>
+<label name="حكم.النظر.إلى.الأجنبية">
+ <label name="نظر.البالغ"/>
+ </label>
+ <label name="الذمة.المالية.للزوجة"/>
+<label name="النسب">
+ <label name="أحكام.النسب"/>
+ <label name="حرمة.الأنساب"/>
+ <label name="إثبات.النسب"/>
+ <label name="حكم.التبني"/>
+ <label name="نسب.ولد.الزنا"/>
+ </label>
+ <label name="الزواج.العرفي"/>
+ <label name="الخلوة.الشرعية"/>
+ <label name="حقوق.الزوجية"/>
+ <label name="إتيان.الزوجة.في.الدبر"/>
+ <label name="العيوب.التي.يفسخ.بها.العقد"/>
+ <label name="الاتفاق.على.شرط.في.عقد.النكاح"/>
+ <label name="توثيق.الزواج.وما.يتعلق.به"/>
+ <label name="أركان.النكاح"/>
+ <label name="أحكام.متعلقة.بالنكاح"/>
+ <label name="التصادق"/>
+ </label>
+<label name="الخلع">
+ <label name="تعريف.الخلع"/>
+ <label name="حكم.الخلع"/>
+ <label name="عوض.الخلع"/>
+ <label name="الخلع.طلاق.أو.فسخ."/>
+ <label name="الشبكة.عند.الخلع.أو.الإبراء"/>
+ <label name="التحليل.وما.يتعلق.به"/>
+ <label name="حقوق.المختلعة.التي.تتنازل.عنها"/>
+ </label>
+<label name="الطلاق">
+ <label name="حكم.الطلاق"/>
+ <label name="الطلاق.السني.والبدعي"/>
+ <label name="أركان.الطلاق"/>
+ <label name="الشك.في.الطلاق"/>
+ <label name="الطلاق.البائن">
+ <label name="البائن.بينونة.صغرى"/>
+ <label name="البائن.بينونة.كبرى"/>
+ </label>
+ <label name="حكم.طلب.الزوجة.الطلاق"/>
+ <label name="حقوق.المطلقة"/>
+<label name="ألفاظ.الطلاق">
+ <label name="الطلاق.المتعدد"/>
+ <label name="الطلاق.المعلق"/>
+ <label name="الطلاق.بالكتابة.والإشارة"/>
+ <label name="الطلاق.عن.طريق.الهاتف"/>
+ <label name="اليمين.بالطلاق"/>
+ <label name="الطلاق.الصريح"/>
+ <label name="كنايات.الطلاق"/>
+ <label name="الوعد.بالطلاق"/>
+ <label name="الطلاق.الذي.لم.يصادف.محلا"/>
+ <label name="طلاق.المحكمة"/>
+ <label name="الإخبار.بالطلاق"/>
+ </label>
+ <label name="طلاق.الغضبان"/>
+ <label name="طلاق.السكران"/>
+ <label name="طلاق.المكره"/>
+ <label name="طلاق.الفار"/>
+ <label name="تصحيح.أخطاء.في.الطلاق"/>
+ <label name="التفويض.والتوكيل.في.الطلاق"/>
+ <label name="نسيان.الطلاق"/>
+ <label name="تعريف.الطلاق"/>
+ </label>
+ <label name="الرجعة"/>
+ <label name="الظهار"/>
+ <label name="العدة">
+ <label name="العدة.بالأقراء"/>
+ <label name="عدة.الصغيرة.والآيسة"/>
+ <label name="عدة.الحامل"/>
+ <label name="عدة.الوفاة"/>
+ <label name="الإحداد"/>
+ <label name="عدة.التي.طلقها.القاضي"/>
+ <label name="عدة.الكتابية"/>
+ <label name="هل.للرجل.عدة."/>
+ <label name="خطبة.المعتدة"/>
+ <label name="عدة.المطلقة.قبل.الدخول"/>
+ <label name="عدة.المختلعة"/>
+ <label name="مكان.قضاء.العدة"/>
+ </label>
+<label name="الرضاع">
+ <label name="أركان.الرضاع.المحرم.وشروطه"/>
+ <label name="إثبات.الرضاع"/>
+ <label name="رضاع.الكبير"/>
+ <label name="لبن.الفحل"/>
+ </label>
+<label name="النفقات">
+ <label name="نفقة.الأهل"/>
+ <label name="نفقة.الزوجة"/>
+ <label name="نفقة.الأولاد"/>
+ <label name="نفقة.المطلقة"/>
+ </label>
+ <label name="الحضانة.وما.يتعلق.بها"/>
+ </label>
+<label name="الجنايات">
+<label name="القصاص.والديات">
+<label name="القتل.1">
+ <label name="حكم.القتل"/>
+<label name="أنواع.القتل">
+ <label name="القتل.العمد"/>
+ <label name="شبه.العمد"/>
+ <label name="الخطأ"/>
+ </label>
+ <label name="كفارة.القتل"/>
+ </label>
+<label name="القصاص">
+ <label name="موجب.القصاص.وأحكامه"/>
+ <label name="شروط.القصاص"/>
+ <label name="التنازل.عن.القصاص"/>
+ </label>
+<label name="الديات">
+ <label name="العفو.عن.الدية"/>
+ <label name="دية.النفس"/>
+ <label name="الدية.فيما.دون.النفس"/>
+ <label name="دية.الجنين"/>
+ </label>
+ </label>
+<label name="الزنا"/>
+ <label name="السرقة"/>
+ <label name="الأشربة"/>
+ <label name="الحدود"/>
+ <label name="الصيال"/>
+ <label name="السحر"/>
+ <label name="سب.النبي.صلى.الله.عليه.وسلم.والصحابة"/>
+ <label name="المقامرة"/>
+ <label name="سب.الدين"/>
+ <label name="اللواط.والشذوذ"/>
+ <label name="أحكام.تتعلق.بالردة.والمرتد"/>
+ </label>
+<label name="السياسة.الشرعية">
+<label name="الإمامة">
+ <label name="حقوق.الإمام.وواجباته"/>
+ <label name="بيت.المال"/>
+ </label>
+<label name="الأقضية.والشهادات">
+ <label name="القضاء.1"/>
+ <label name="الحكم.على.الغائب"/>
+ <label name="الدعاوى.والبينات"/>
+ <label name="الشهادات"/>
+ <label name="الإفتاء">
+ <label name="شروط.المفتي.وآدابه"/>
+ <label name="آداب.المستفتي"/>
+ </label>
+ </label>
+ </label>
+ </label>
+<label name="الأخلاق.والآداب">
+<label name="مكارم.الأخلاق">
+ <label name="فضل.حسن.الخلق"/>
+ <label name="الأدب.مع.الله"/>
+ <label name="الأدب.مع.النبي.صلى.الله.عليه.وسلم"/>
+ <label name="الإخلاص"/>
+ <label name="التضرع.والخشوع"/>
+ <label name="التوبة"/>
+<label name="المحبة">
+ <label name="محبة.النبي.صلى.الله.عليه.وسلم"/>
+ </label>
+ <label name="حسن.الظن"/>
+ <label name="الشكر"/>
+ <label name="الرفق"/>
+ <label name="الإحسان"/>
+ <label name="العدل.والقسط"/>
+ <label name="الاحترام.والتوقير"/>
+ <label name="الإصلاح"/>
+ <label name="الإعانة"/>
+ <label name="التعاون"/>
+<label name="البر">
+ <label name="بر.الوالدين"/>
+ <label name="بر.ذوي.الأرحام"/>
+ </label>
+ <label name="الستر"/>
+ <label name="النصيحة"/>
+ <label name="الصبر"/>
+ <label name="الأمانة"/>
+ <label name="الخوف"/>
+ <label name="الرحمة"/>
+ <label name="الورع"/>
+ <label name="الوفاء"/>
+ <label name="الكفالة.وما.يتعلق.بها"/>
+ <label name="إتقان.العمل"/>
+ </label>
+<label name="مساوئ.الأخلاق">
+ <label name="ذم.سوء.الخلق"/>
+ <label name="الإفساد"/>
+ <label name="السباب.وبذاءة.اللسان"/>
+ <label name="إشاعة.الفاحشة"/>
+ <label name="الإسراف.والتبذير"/>
+ <label name="الخيانة.والغدر"/>
+ <label name="الظلم"/>
+ <label name="الكذب"/>
+ <label name="الغش.1"/>
+ <label name="شهادة.الزور.وما.يتعلق.بها"/>
+ </label>
+<label name="الآداب">
+ <label name="آداب.اللباس.والزينة"/>
+ <label name="آداب.العلم"/>
+ <label name="آداب.المصافحة"/>
+ <label name="الرفق.بالحيوان"/>
+ <label name="التعامل.مع.غير.المسلم"/>
+ </label>
+ </label>
+<label name="قضايا.معاصرة">
+<label name="المعاملات.المستحدثة">
+<label name="البنوك">
+ <label name="عقود.التمويل"/>
+ <label name="الودائع"/>
+ <label name="القروض"/>
+ <label name="دفاتر.التوفير"/>
+ <label name="الحسابات.الاستثمارية"/>
+ <label name="التعامل.مع.البنوك.والعمل.بها"/>
+ <label name="أذونات.الخزانة"/>
+ <label name="شهادات.الاستثمار"/>
+ <label name="السندات"/>
+ </label>
+ <label name="التسويق.الشبكي"/>
+ <label name="التأمين.بأنواعه"/>
+ <label name="البورصة"/>
+ <label name="الفيزا"/>
+ <label name="البيع.بالتقسيط.1"/>
+ <label name="غلاء.أو.رخص.وسيط.التبادل"/>
+ <label name="السمسرة"/>
+ <label name="الضرائب"/>
+ <label name="صناديق.التكافل.الاجتماعي"/>
+ <label name="السياحة.والفنادق.وما.يتعلق.بهما"/>
+ <label name="الشرط.الجزائي"/>
+ <label name="تعويض.الضرر.وما.يتعلق.به"/>
+ </label>
+<label name="قضايا.المرأة">
+ <label name="تولي.المرأة.القضاء"/>
+ <label name="تولي.المرأة.المناصب.السياسية"/>
+ <label name="عمل.المرأة.مأذونا"/>
+ <label name="تعدد.الزوجات"/>
+ <label name="الزواج.من.غير.المسلمين"/>
+ <label name="لباس.وزينة.المرأة"/>
+ <label name="أحكام.سفر.المرأة"/>
+ <label name="الإجهاض"/>
+ <label name="الختان"/>
+ <label name="مكاتب.الزواج"/>
+ <label name="التعقيم"/>
+ <label name="عمل.المرأة"/>
+ <label name="رتق.غشاء.البكارة"/>
+ <label name="صلاة.المرأة.في.المسجد.1"/>
+ <label name="عمل.المرأة.في.كوافير"/>
+ <label name="الاختلاط"/>
+ </label>
+<label name="القضايا.الطبية.المعاصرة">
+ <label name="نقل.وزرع.الأعضاء.والتبرع.بها.وبيعها"/>
+ <label name="استخدام.أنسجة.الخنزير.وما.يتعلق.بالاستحالة"/>
+ <label name="الاستنساخ"/>
+ <label name="تأجير.الأرحام"/>
+ <label name="إجراء.عمليات.تغيير.الجنس"/>
+ <label name="أطفال.الأنابيب.وما.يتعلق.بها"/>
+ <label name="جراحات.التجميل.وما.يتعلق.بها"/>
+ <label name="القتل.الرحيم"/>
+ <label name="رفع.الأجهزة.وإيقاف.الأدوية.عن.الميؤوس.من.شفائه"/>
+ <label name="استخدام.المهدئات.والمخدرات.في.تخفيف.الألم"/>
+ <label name="حكم.خطأ.الطبيب"/>
+ <label name="الحجامة"/>
+ <label name="التدخين.وما.يتعلق.به"/>
+ <label name="الأجهزة.التعويضية"/>
+ <label name="التدخل.لتحديد.نوع.الجنين"/>
+ <label name="عمليات.فصل.التوائم"/>
+ <label name="أحكام.متعلقة.بالصيدلة.والتداوي"/>
+ </label>
+<label name="قضايا.سياسية.معاصرة">
+ <label name="الانتخابات.وما.يحدث.فيها"/>
+ <label name="القوانين.وما.يتعلق.بها"/>
+ </label>
+ <label name="حكم.الغناء.والموسيقى"/>
+<label name="الأجهزة.الحديثة.وما.يتعلق.بها">
+ <label name="أجهزة.استقبال.الأقمار.الصناعية"/>
+ <label name="أجهزة.المحمول"/>
+ <label name="أجهزة.متعلقة.بالصلاة.والطهارة.والأهلة.والقرآن"/>
+ <label name="أجهزة.التليفزيون.والراديو"/>
+ <label name="الصحافة.والإنترنت"/>
+ </label>
+ <label name="حكم.التماثيل.والصور"/>
+ <label name="أحكام.التمثيل.وما.يتعلق.به"/>
+ <label name="المسابقات.وما.يتعلق.بها"/>
+ <label name="درجات.القرابة"/>
+ <label name="الحقوق.الفكرية.والعلامات.التجارية"/>
+ <label name="الكنائس.وما.يتعلق.بها"/>
+ <label name="استغلال.المال.العام.في.غير.ما.وضع.له"/>
+ <label name="إيصال.الأمانة"/>
+ <label name="أكل.أموال.الناس.بالباطل"/>
+ <label name="أمور.تتعلق.بالمولود"/>
+ <label name="البلطجة.وترويع.الآمنين"/>
+ <label name="أحكام.بعض.التقاليد.والعادات"/>
+ <label name="الأسلحة.وما.يتعلق.بها"/>
+ <label name="البحث.العلمي.وما.يتعلق.به"/>
+ </label>
+ </label>
+ <label name="متفرقات"/>
+ </labels>
