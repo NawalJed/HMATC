@@ -3,4 +3,4 @@ The HMATC model is a hierarchical multi-label text classification model for Arab
 
 Contributor(s): Nawal Aljedani, Reem Alotaibi, Mounira Taileb.
 
-https://github.com/Nawal-aljedani/HMATC
+https://github.com/NawalJed/HMATC
