@@ -70,12 +70,12 @@ public class PreprocessingPhase
 
 			/** Create an object from StringToWordVector class and setting it with the required inputs and parameters*/
 			StringToWordVector STWfilter = new StringToWordVector(11000);
-			STWfilter.setInputFormat(rawData);       //---Sets the input dataset that need to be preprocessed.
-			STWfilter.setTokenizer(wt);                //---Sets the tokenizer algorithm to use.     
-			STWfilter.setStopwordsHandler(stopWord);     //---Sets the StopwordsHandler object. 
-			STWfilter.setStemmer(stemm);                   //---Sets the Stemmer object. 
-			STWfilter.setOutputWordCounts(true);             //Sets the outputWordCounts to true if word counts should be output.
-			STWfilter.setWordsToKeep(11000);                   //---Sets the number of words to be resulted after the pre-processing phase. 	
+			STWfilter.setInputFormat(rawData);       //---Set the input dataset that need to be preprocessed.
+			STWfilter.setTokenizer(wt);                //---Set the tokenizer algorithm to use.     
+			STWfilter.setStopwordsHandler(stopWord);     //---Set the StopwordsHandler object. 
+			STWfilter.setStemmer(stemm);                   //---Set the Stemmer object. 
+			STWfilter.setOutputWordCounts(true);             //Set the outputWordCounts to true if word counts should be output.
+			STWfilter.setWordsToKeep(11000);                   //---Set the number of words to be resulted after the pre-processing phase. 	
 			
 			
 			/** These parameters are setting to true if we want to represent 
