@@ -83,7 +83,7 @@ public class ClassificationPhase
 
 
 			/** Do the hierarchical classification task using HOMER algorithm */
-			HOMER hmr=new HOMER(new LabelPowerset(new SMO()),8,HierarchyBuilder.Method.Clustering);
+			HOMER hmr=new HOMER(new LabelPowerset(new SMO()),8,HierarchyBuilder.Method.BalancedClustering);
 
 
 			/** Evaluate the model performance using 5 folds cross-validation approach */
